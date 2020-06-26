@@ -1,6 +1,6 @@
 <?php
 namespace Stanford\ClassNameHere;
-/** @var ClassNameHere $this */
+/** @var ServiceDeskWidget $this */
 
 trait emLoggerTrait
 {
